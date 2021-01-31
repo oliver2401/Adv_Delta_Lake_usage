@@ -1,0 +1,14 @@
+{"commitInfo":{"timestamp":1605156850576,"operation":"MERGE","operationParameters":{"predicate":"((spark_catalog.deltademo.SalesDeltaFormat.`StockCode` = vw_mergesalesdata.`StockCode`) AND (spark_catalog.deltademo.SalesDeltaFormat.`InvoiceNo` = vw_mergesalesdata.`InvoiceNo`))"},"readVersion":11,"isBlindAppend":false,"operationMetrics":{"numTargetRowsCopied":"297942","numTargetRowsDeleted":"0","numTargetFilesAdded":"4","numTargetRowsInserted":"23","numTargetRowsUpdated":"40","numOutputRows":"298005","numSourceRows":"44","numTargetFilesRemoved":"9"},"userMetadata":"11-11-2020 Data Merge Message;"}}
+{"remove":{"path":"part-00001-89903254-8f47-419c-8590-5b4d5a3879c7-c000.snappy.parquet","deletionTimestamp":1605156850572,"dataChange":true}}
+{"remove":{"path":"part-00000-81a51d26-1370-475a-93c8-a223993cc380-c000.snappy.parquet","deletionTimestamp":1605156850575,"dataChange":true}}
+{"remove":{"path":"part-00000-89405477-caf4-41fe-b360-a49c3941d592-c000.snappy.parquet","deletionTimestamp":1605156850575,"dataChange":true}}
+{"remove":{"path":"part-00002-b2c11069-6419-4e74-921d-b4aa993b5aa0-c000.snappy.parquet","deletionTimestamp":1605156850575,"dataChange":true}}
+{"remove":{"path":"part-00000-397db2d8-e173-44c4-a3ba-5cc948221449-c000.snappy.parquet","deletionTimestamp":1605156850575,"dataChange":true}}
+{"remove":{"path":"part-00001-d1c13968-1579-45f7-ab23-7ff186144cab-c000.snappy.parquet","deletionTimestamp":1605156850575,"dataChange":true}}
+{"remove":{"path":"part-00002-393a0867-ca4a-4c94-bea0-2580dd0d33a0-c000.snappy.parquet","deletionTimestamp":1605156850575,"dataChange":true}}
+{"remove":{"path":"part-00002-5990853e-d9c7-4282-b44d-69bc441078fa-c000.snappy.parquet","deletionTimestamp":1605156850575,"dataChange":true}}
+{"remove":{"path":"part-00001-a3a9086d-32be-4b40-9eea-e0c4a18f5451-c000.snappy.parquet","deletionTimestamp":1605156850575,"dataChange":true}}
+{"add":{"path":"part-00000-866bac3a-b7e1-406b-bd3c-89a6fb32658e-c000.snappy.parquet","partitionValues":{},"size":700092,"modificationTime":1605156850000,"dataChange":true}}
+{"add":{"path":"part-00001-0cf583bb-380a-4b4f-a514-6a992e6fb1b3-c000.snappy.parquet","partitionValues":{},"size":705953,"modificationTime":1605156850000,"dataChange":true}}
+{"add":{"path":"part-00002-a5e0e914-9444-4c6f-b963-1ce49c72da89-c000.snappy.parquet","partitionValues":{},"size":705640,"modificationTime":1605156850000,"dataChange":true}}
+{"add":{"path":"part-00003-effca007-aa40-4257-b74f-a7feae41c489-c000.snappy.parquet","partitionValues":{},"size":702791,"modificationTime":1605156850000,"dataChange":true}}

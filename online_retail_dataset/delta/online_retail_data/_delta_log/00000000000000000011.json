@@ -1,0 +1,7 @@
+{"commitInfo":{"timestamp":1605156587673,"operation":"UPDATE","operationParameters":{"predicate":"(InvoiceNo#1222 = 561915)"},"readVersion":10,"isBlindAppend":false,"operationMetrics":{"numRemovedFiles":"3","numAddedFiles":"3","numUpdatedRows":"32","numCopiedRows":"112421"}}}
+{"remove":{"path":"part-00001-2576e8c3-d158-4d3f-a1f5-3ba1debe407e-c000.snappy.parquet","deletionTimestamp":1605156587452,"dataChange":true}}
+{"remove":{"path":"part-00001-2dc9751d-69e8-40a2-add5-2b0bf22e6313-c000.snappy.parquet","deletionTimestamp":1605156587452,"dataChange":true}}
+{"remove":{"path":"part-00000-8badf00f-a3ca-42ae-8047-48ae2939f7b1-c000.snappy.parquet","deletionTimestamp":1605156587452,"dataChange":true}}
+{"add":{"path":"part-00000-81a51d26-1370-475a-93c8-a223993cc380-c000.snappy.parquet","partitionValues":{},"size":407241,"modificationTime":1605156587000,"dataChange":true}}
+{"add":{"path":"part-00001-a3a9086d-32be-4b40-9eea-e0c4a18f5451-c000.snappy.parquet","partitionValues":{},"size":407091,"modificationTime":1605156587000,"dataChange":true}}
+{"add":{"path":"part-00002-393a0867-ca4a-4c94-bea0-2580dd0d33a0-c000.snappy.parquet","partitionValues":{},"size":407091,"modificationTime":1605156587000,"dataChange":true}}

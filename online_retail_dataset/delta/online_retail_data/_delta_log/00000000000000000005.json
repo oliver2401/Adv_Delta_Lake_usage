@@ -1,0 +1,4 @@
+{"commitInfo":{"timestamp":1605156288185,"operation":"DELETE","operationParameters":{"predicate":"[\"(spark_catalog.deltademo.SalesDeltaFormat.`InvoiceNo` = 554207)\"]"},"readVersion":4,"isBlindAppend":false,"operationMetrics":{"numRemovedFiles":"2","numDeletedRows":"2","numAddedFiles":"1","numCopiedRows":"37483"}}}
+{"remove":{"path":"part-00001-204be439-2710-430f-9555-28489396e9e7-c000.snappy.parquet","deletionTimestamp":1605156288183,"dataChange":true}}
+{"remove":{"path":"part-00000-b0b38ca5-7f0a-472e-b176-f72af7be81d8-c000.snappy.parquet","deletionTimestamp":1605156288183,"dataChange":true}}
+{"add":{"path":"part-00000-8badf00f-a3ca-42ae-8047-48ae2939f7b1-c000.snappy.parquet","partitionValues":{},"size":408423,"modificationTime":1605156288000,"dataChange":true}}
